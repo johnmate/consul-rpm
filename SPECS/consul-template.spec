@@ -103,6 +103,8 @@ rm -rf %{buildroot}
 
 
 %changelog
+* Thi Feb 25 2021 johnmate rokha.evgeny@gmail.com
+- Bump version to 0.25.2
 * Sun Mar 25 2018 ambakshi ambakshi@gmail.com
 - Bump version to 0.19.4
 * Tue Aug 22 2017 mh <mh@immerda.ch> - 0.19.0-1
