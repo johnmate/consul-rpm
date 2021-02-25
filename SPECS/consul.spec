@@ -111,6 +111,9 @@ rm -rf %{buildroot}
 
 
 %changelog
+* Thi Feb 25 2021 johnmate rokha.evgeny@gmail.com
+- Bump version to 1.9.3
+
 * Sun Mar 25 2018 ambakshi ambakshi@gmail.com
 - Bump version to 1.0.6
 
