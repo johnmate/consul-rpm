@@ -112,20 +112,20 @@ rm -rf %{buildroot}
 
 %changelog
 * Thu Mar 09 2021 johnmate rokha.evgeny@gmail.com
-- Bump version to 1.9.4
+- Bump to 1.9.4
 
 * Thu Feb 25 2021 johnmate rokha.evgeny@gmail.com
-- Bump version to 1.9.3
+- Bump to 1.9.3
 
 * Sun Mar 25 2018 ambakshi ambakshi@gmail.com
-- Bump version to 1.0.6
+- Bump to 1.0.6
 
 * Fri Aug 18 2017 leeuwenrjj leeuwenrjj@gmail.com
-- Bump version to 0.9.2
+- Bump to 0.9.2
 - Fix issue with prep
 
 * Tue Jul 25 2017 atumasov multibutterbread@gmail.com
-- Bump version to 0.9.0
+- Bump to 0.9.0
 - Remove outdated UI package https://github.com/hashicorp/consul/blob/master/CHANGELOG.md#090-july-20-2017
 
 * Mon Apr 24 2017 mh <mh@immerda.ch>
